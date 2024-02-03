@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    height: 50px;
+    text-align: center;
+}
+
+/* Kleuren voor de woorden */
+#cel1-1 { background-color: #ff9999; }
+#cel1-3 { background-color: #99ff99; }
+#cel2-1 { background-color: #9999ff; }
+#cel2-3 { background-color: #ffff99; }
+#cel3-1 { background-color: #ff99ff; }
+#cel3-3 { background-color: #99ffff; }
+#cel4-1 { background-color: #cccccc; }
+#cel4-3 { background-color: #ffcc99; }
+
+img {
+    width: 100%;
+    height: auto;
+}
